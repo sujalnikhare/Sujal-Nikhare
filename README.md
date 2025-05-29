@@ -1,3 +1,4 @@
+![logo](https://github.com/sujalnikhare/Sujal-Nikhare/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sujal Nikhare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
